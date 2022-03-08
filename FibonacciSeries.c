@@ -1,10 +1,6 @@
 # include <stdio.h>
 # include <stdint.h>
 
-/*
-	Name: Ruhail Mir
-	Roll No: CSE-20-LE-64
-*/
 
 typedef long long int T;
 
