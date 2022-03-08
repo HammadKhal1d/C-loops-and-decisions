@@ -1,9 +1,5 @@
 # include <stdio.h>
 
-/* 
-	Name: Ruhail Mir
-	Roll No: CSE-20-LE-64
-*/
 
 int main(){
 	int A[] = { 6, 2, 9, 1, 5, 8, 5, 1, 2, 4, 8 };
