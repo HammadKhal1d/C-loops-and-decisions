@@ -3,10 +3,7 @@
 # include <cmath>
 # include <iomanip>
 
-/*
-	Name: Ruhail Mir
-	Roll No: CSE-20-LE-64
-*/
+
 
 int main(){
 	int MAX;
