@@ -1,10 +1,6 @@
 # include <iostream>
 # include <iomanip>
 
-/*
-	Name: Ruhail Mir
-	Roll No: CSE-20-LE-64
-*/
 
 int main(){
   float pTotal, tDiscountMin = 0.10f, tDiscountMax = 0.12f,
