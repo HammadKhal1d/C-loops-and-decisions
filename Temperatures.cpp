@@ -3,10 +3,7 @@
 # include <iomanip>
 # include <string>
 
-/*
-	Name: Ruhail Mir
-	Roll No: CSE-20-LE-64
-*/
+
 
 int main(){
 	const int HOT_MIN = 85;
