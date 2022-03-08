@@ -1,9 +1,6 @@
 # include <stdio.h>
 
-/* 
-	Name: Ruhail Mir
-	Roll No: CSE-20-LE-64
-*/
+
 
 # define SPECIAL_START 33
 # define NUM_START 48
