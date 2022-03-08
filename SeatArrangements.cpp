@@ -1,9 +1,6 @@
 # include <iostream>
 
-/*
-	Name: Ruhail Mir
-	Roll No: CSE-20-LE-64
-*/
+
 
 typedef unsigned long int T;
 
