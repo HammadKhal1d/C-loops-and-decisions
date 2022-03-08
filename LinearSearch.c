@@ -5,10 +5,6 @@
 #define TO_SEARCH 8
 #define NOT_FOUND -1
 
-/* 
-	Name: Ruhail Mir
-	Roll No: CSE-20-LE-64
-*/
 
 int main(){
 	int A[MAX];
