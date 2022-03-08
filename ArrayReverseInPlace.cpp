@@ -2,10 +2,6 @@
 #include <stdlib.h>
 #include <math.h>
 
-/* 
-	Name: Ruhail Mir
-	Roll No: CSE-20-LE-64
-*/
 
 int main(){
 	int A[] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
